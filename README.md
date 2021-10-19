@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**najx/najx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    <details>
+        <summary><strong>Github Stats</strong></summary>
+        <p><kbd><img width=400 src="https://github-readme-stats.vercel.app/api?username=najx&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true&include_all_commits=true"><img height=158 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=najx&layout=compact&langs_count=10&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true&card_width=485&line_height=35" /></kbd></p>
+    </details>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/bdelmwla"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@bdelmwla"></a>
+<a href="https://www.linkedin.com/in/abdx"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@bdx"></a>
+<a href="https://najim.io/contactme"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social&logo=mail.ru" alt="contactme"></a>
