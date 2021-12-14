@@ -1,3 +1,4 @@
+[![](https://visitor-badge.glitch.me/badge?page_id=najx.visitor-badge")]()
 # Hi there 👋
 
 <a href="https://twitter.com/bdelmwla"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@bdelmwla"></a>
