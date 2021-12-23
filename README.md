@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 
-
 ### 💬 Some words about me
 
 <samp><p align=”justify” style="text-indent:40px;"> 
