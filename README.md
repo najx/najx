@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 
 ### 💬 Some words about me
 
-<samp><p align=”justify” style="text-indent:40px;"> 
-DevOps Engineer with several years of experience from Paris, France 🇫🇷
+SRE/DevOps Engineer with over 8+ years of successful professional experience in Build & Release Management, Consult & Contribute to system architecture in extensive work towards code compilation, packaging, building, debugging, automating, managing, tuning and deploy code across multiple environments.
+
+Collaborate with developers and testers to ensure streamlined CI/CD. processes for enterprise SaaS and on-prem applications using tools such as Git and Jenkins.
+
+Highly familiar with a wide variety of IT security and networking tools.
+
+Highly motivated, dedicated and resourceful experienced in automation configurations management tools, RHEL 8/ Ubuntu 18.04/CoreOS, Windows Operating System and Mac OS Environment.
  
-I'm a goal oriented person. I'am also dynamic, persevering and rigorous.
-
-Please find my informations bellow and enjoy your visit !</p></samp> 
-
-## 
+Please find my informations bellow and enjoy your visit !
 
 ### 💬 Find me elsewhere on the internet
 
