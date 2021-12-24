@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 ### 💬 Some words about me
 
 <samp><p align=”justify” style="text-indent:40px;"> 
-I'm <b>Najim Abdelmoula</b>, a DevOps Engineer with several years of experience from Paris, France 🇫🇷. 
+DevOps Engineer with several years of experience from Paris, France 🇫🇷
+ 
 I'm a goal oriented person. I'am also dynamic, persevering and rigorous.
+
 Please find my informations bellow and enjoy your visit !</p></samp> 
 
 ## 
