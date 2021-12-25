@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 
 ### 💬 Some words about me
 
-SRE/DevOps Engineer with over 8+ years of successful professional experience in Build & Release Management, Consult & Contribute to system architecture in extensive work towards code compilation, packaging, building, debugging, automating, managing, tuning and deploy code across multiple environments.
+SRE/DevOps Engineer with over 8+ years of successful professional experience in Build & Release Management, Consult & Contribute to system architecture in extensive work towards code compilation, packaging, building, debugging, automating, managing, tuning and deploy code across multiple kinds of environments.
 
-Collaborate with developers and testers to ensure streamlined CI/CD. processes for enterprise SaaS and on-prem applications using tools such as Git and Jenkins.
+Collaborate with developers and testers to ensure streamlined CI/CD. processes for enterprise SaaS and on-prem applications using tools such as Git and Azure DevOps.
 
 Highly familiar with a wide variety of IT security and networking tools.
 
-Highly motivated, dedicated and resourceful experienced in automation configurations management tools, RHEL 8/ Ubuntu 18.04/CoreOS, Windows Operating System and Mac OS Environment.
+Truly motivated, dedicated and resourceful experienced in automation configurations management tools, RHEL 8/ Ubuntu 18.04/CoreOS, Microsoft operating systems.
  
-Please find my informations bellow and enjoy your visit !
+Find some related links about me bellow and enjoy your visit !
 
-### 💬 Find me elsewhere on the internet
+### 📫 Find me elsewhere on the internet
 
 <a href="https://twitter.com/bdelmwla"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@bdelmwla"></a>
 <a href="https://www.linkedin.com/in/abdx"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@bdx"></a>
