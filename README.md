@@ -1,33 +1,21 @@
 # Hi there 👋
 
-<!--
-**najx/najx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://visitor-badge.glitch.me/badge?page_id=najx.visitor-badge")]()
 
-### 💬 Some words about me
-
-SRE/DevOps Engineer with over 8+ years of successful professional experience in Build & Release Management, Consult & Contribute to system architecture in extensive work towards code compilation, packaging, building, debugging, automating, managing, tuning and deploy code across multiple kinds of environments.
-
-Collaborate with developers and testers to ensure streamlined CI/CD. processes for enterprise SaaS and on-prem applications using tools such as Git and Azure DevOps.
-
-Highly familiar with a wide variety of IT security and networking tools.
-
-Truly motivated, dedicated and resourceful experienced in automation configurations management tools, RHEL 8/ Ubuntu 18.04/CoreOS, Microsoft operating systems.
- 
-Find some related links about me bellow and enjoy your visit !
-
-### 📫 Find me elsewhere on the internet
+ - 🔭 SRE/DevOps Engineer with over 8+ years of professional experience
+ - 💬 I work with devs and testers to ensure streamlined CI/CD processes for SaaS and on-prem applications using tools such as Git and Azure DevOps
+ - 🌱 I’m currently improving my skills in C C++ Golang and Python by following coding bootcamps
+ - 👯 I contribute on subjects like build, release management in extensive work towards code compilation, automation, code deployment
+ - 📫 How to reach me: ...
 
 <a href="https://twitter.com/bdelmwla"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@bdelmwla"></a>
 <a href="https://www.linkedin.com/in/abdx"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@bdx"></a>
 <a href="mailto:najim.abdelmoula@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social&logo=mail.ru" alt="contactme"></a>
-[![](https://visitor-badge.glitch.me/badge?page_id=najx.visitor-badge")]()
+
+![6405318ac146473a95bfbdcec2b32943](https://user-images.githubusercontent.com/11095731/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif)
+<sub>Art by [waneella_](https://twitter.com/waneella_)</sup>
+
+<!--
+ - 🤔 I’m looking for help with ...
+ - ⚡ Fun fact: ...
+-->
