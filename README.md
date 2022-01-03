@@ -3,9 +3,13 @@
 [![](https://visitor-badge.glitch.me/badge?page_id=najx.visitor-badge")]()
 
  - 🔭 SRE/DevOps Engineer with over 8+ years of professional experience
- - 💬 I work with devs and testers to ensure streamlined CI/CD processes for SaaS and on-prem applications
- - 🌱 I’m currently improving my skills in C C++ Golang and Python by following coding bootcamps
- - 👯 I contribute on subjects like release management, and automation of build and code deployment
+ - 💬 I work with devs and testers to ensure streamlined CI/CD processes for SaaS and on-prem apps
+ - 🌱 I’m currently improving my skills and knowledge in:
+      C, C++, Golang and Python by following coding bootcamps 👨🏻‍💻
+      
+      <iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
+ 
+ - 👯 I also contribute on topics related to release management, automation, build and deploy
  - 📫 How to reach me:
 
   <a href="https://twitter.com/bdelmwla"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@bdelmwla"></a>
