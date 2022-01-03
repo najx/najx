@@ -4,7 +4,7 @@
 
  - 🔭 SRE/DevOps Engineer with over 8+ years of professional experience
  - 💬 I work with devs and testers to ensure streamlined CI/CD processes for SaaS and on-prem apps
- - 🌱 I’m currently improving my skills and knowledge in [C](open-std.org), [C++](isocpp.org), [Golang](golang.org) and [Python](python.org)
+ - 🌱 I’m currently improving my skills and knowledge in [C](http://www.open-std.org), [C++](http://www.isocpp.org), [Golang](http://www.golang.org) and [Python](http://www.python.org)
  - 👯 I also contribute on topics related to release management, automation, build and deploy
  - 📫 How to reach me:
 
