@@ -4,11 +4,7 @@
 
  - 🔭 SRE/DevOps Engineer with over 8+ years of professional experience
  - 💬 I work with devs and testers to ensure streamlined CI/CD processes for SaaS and on-prem apps
- - 🌱 I’m currently improving my skills and knowledge in:
-      C, C++, Golang and Python by following coding bootcamps 👨🏻‍💻
-      
-      <iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
- 
+ - 🌱 I’m currently improving my skills and knowledge in C, C++, Golang and Python
  - 👯 I also contribute on topics related to release management, automation, build and deploy
  - 📫 How to reach me:
 
