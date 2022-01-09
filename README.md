@@ -7,7 +7,6 @@
     - [C++](http://www.isocpp.org),
     - [Golang](http://www.golang.org),
     - [Python](http://www.python.org)
-  - 👯 I also contribute on topics related to release management, automation, build and deploy
 
 📫 How to reach me:
  
