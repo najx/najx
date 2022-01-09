@@ -1,10 +1,6 @@
 # Hello there! 👋
 
 [![](https://visitor-badge.glitch.me/badge?page_id=najx.visitor-badge")]()
-
-<details>
- <b>
-  ---
   
   - 🔭 SRE/DevOps Engineer with over 8+ years of professional experience
   - 💬 I work with devs and testers to ensure streamlined CI/CT/CD processes for SaaS and on-prem apps
@@ -14,9 +10,6 @@
     - [Golang](http://www.golang.org),
     - [Python](http://www.python.org)
   - 👯 I also contribute on topics related to release management, automation, build and deploy
-  
- </b>
-</details>
 
 📫 How to reach me:
  
