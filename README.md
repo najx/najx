@@ -1,7 +1,7 @@
 # Hello there! 👋
 [![](https://visitor-badge.glitch.me/badge?page_id=najx.visitor-badge")]()
   - 🔭 SRE/DevOps Engineer with over 8+ years of professional experience
-  - 💬 I work with devs and testers to ensure streamlined CI/CT/CD processes for SaaS and on-prem apps
+  - 💬 I work with devs and testers to ensure streamlined CI/CD processes for SaaS and on-prem apps
   - 🌱 I’m currently improving my skills and knowledge in: 
     - [C](http://www.open-std.org),
     - [C++](http://www.isocpp.org),
