@@ -30,7 +30,7 @@
 #### **Artificial Intelligence**
 
 - ⬜️ **AZ-102** - Azure AI Engineer Associate _(planned)_
-- ⚡ **AI-900** - Azure AI Fundamentals _(download is in progress...)_
+- ✅ **AI-900** - Microsoft Certified: Azure AI Fundamentals
 
 ![6405318ac146473a95bfbdcec2b32943](https://user-images.githubusercontent.com/11095731/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif)
 <sub>Art by [waneella_](https://twitter.com/waneella_) with ❤️</sup>
