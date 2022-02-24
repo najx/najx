@@ -19,7 +19,7 @@
 
 #### **Data management**
 
-- ⬜️ **DP-300** - Azure Database Administrator Associate _(planned)_
+- ⬜️ **DP-300** - Azure DBA Associate _(planned)_
 - ⚡ **DP-900** - Azure Data Fundamentals _(download is in progress...)_
 
 #### **Security & Compliance**
