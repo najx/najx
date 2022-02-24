@@ -8,16 +8,29 @@
 
 `#DevOps` `#SiteReliabilityEngineering` `#OpenSourcing` `#2022🚀`
 
-### 📚 Certification Goals for 2022:
+### **📚 Certification Goals for 2022:**
+
+#### **Azure Cloud Computing** (Architecture, Administration & DevOps Engineering)
 
 - ⬜️ **AZ-305** - Azure Solutions Architect Expert _(planned)_
 - ⬜️ **AZ-400** - DevOps Engineer Expert _(planned)_
-- ⬜️ **AZ-500** - Azure Security Engineer Associate _(planned)_
 - ⚡ **AZ-104** - Azure Administrator Associate _(download is in progress...)_
-- ⚡ **SC-900** - Microsoft Security, Compliance, and Identity Fundamentals _(download is in progress...)_
-- ⚡ **AI-900** - Azure AI Fundamentals _(download is in progress...)_
+- ✅ **AZ-900** - Microsoft Certified: Azure Fundamentals
+
+#### **Data management**
+
+- ⬜️ **DP-300** - Azure DBA Associate _(planned)_
 - ⚡ **DP-900** - Azure Data Fundamentals _(download is in progress...)_
-- ✅ **AZ-900** - Azure Fundamentals
+
+#### **Security & Compliance**
+
+- ⬜️ **AZ-500** - Azure Security Engineer Associate _(planned)_
+- ⚡ **SC-900** - Microsoft Security, Compliance, and Identity Fundamentals _(download is in progress...)_
+
+#### **Artificial Intelligence**
+
+- ⬜️ **AZ-102** - Azure AI Engineer Associate _(planned)_
+- ✅ **AI-900** - Microsoft Certified: Azure AI Fundamentals
 
 ![6405318ac146473a95bfbdcec2b32943](https://user-images.githubusercontent.com/11095731/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif)
 <sub>Art by [waneella_](https://twitter.com/waneella_) with ❤️</sup>
