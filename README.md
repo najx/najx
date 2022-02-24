@@ -10,7 +10,7 @@
 
 ### **📚 Certification Goals for 2022:**
 
-### **Microsoft Azure**
+### **Microsoft Azure ☁️**
 
 #### **Azure Cloud Computing** (Architecture, Administration & DevOps Engineering)
 
