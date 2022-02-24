@@ -32,6 +32,12 @@
 - ⬜️ **AZ-102** - Azure AI Engineer Associate _(planned)_
 - ✅ **AI-900** - Microsoft Certified: Azure AI Fundamentals
 
+### **📖 Find also my achievements from:**
+
+- [Udemy](https://github.com/najx/najx/blob/feature/add-achievements/.udemy.md)
+- [Coursera](https://github.com/najx/najx/blob/feature/add-achievements/.coursera.md)
+- [LinkedIn Learning](https://github.com/najx/najx/blob/feature/add-achievements/.linkedin.md)
+
 ![6405318ac146473a95bfbdcec2b32943](https://user-images.githubusercontent.com/11095731/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif)
 <sub>Art by [waneella_](https://twitter.com/waneella_) with ❤️</sup>
 
