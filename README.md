@@ -14,6 +14,7 @@
 
 - ⬜️ **AZ-305** - Azure Solutions Architect Expert _(planned)_
 - ⬜️ **AZ-400** - DevOps Engineer Expert _(planned)_
+- ⬜️ **AZ-700** - Azure Network Engineer Associate _(planned)_
 - ⚡ **AZ-104** - Azure Administrator Associate _(download is in progress...)_
 - ✅ **AZ-900** - Microsoft Certified: Azure Fundamentals
 
@@ -29,7 +30,7 @@
 
 #### **Artificial Intelligence**
 
-- ⬜️ **AZ-102** - Azure AI Engineer Associate _(planned)_
+- ⬜️ **AI-102** - Azure AI Engineer Associate _(planned)_
 - ✅ **AI-900** - Microsoft Certified: Azure AI Fundamentals
 
 ![6405318ac146473a95bfbdcec2b32943](https://user-images.githubusercontent.com/11095731/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif)
