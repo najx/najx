@@ -14,8 +14,8 @@
 
 - ⬜️ **AZ-305** - Azure Solutions Architect Expert _(planned)_
 - ⬜️ **AZ-400** - DevOps Engineer Expert _(planned)_
-- ⬜️ **AZ-700** - Azure Network Engineer Associate _(planned)_
 - ⚡ **AZ-104** - Azure Administrator Associate _(download is in progress...)_
+- ⬜️ **AZ-700** - Azure Network Engineer Associate _(planned)_
 - ✅ **AZ-900** - Microsoft Certified: Azure Fundamentals
 
 #### **Data management**
