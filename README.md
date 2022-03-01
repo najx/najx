@@ -10,7 +10,7 @@
 
 ### **📚 Certification Goals for 2022:**
 
-#### **Azure Cloud Computing** (Architecture, Administration & DevOps Engineering)
+#### **Azure Cloud Computing** (Defining architecture pattern, Designing/Implementing DevOps strategy & Administration)
 
 - ⬜️ **AZ-305** - Azure Solutions Architect Expert _(planned)_
 - ⬜️ **AZ-400** - DevOps Engineer Expert _(planned)_
