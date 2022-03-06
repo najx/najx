@@ -11,6 +11,8 @@
 ### **Azure Cloud Computing**
 <sub>(Defining architecture pattern, Designing/Implementing DevOps strategy & Administration)</sup>
 
+<img src="https://user-images.githubusercontent.com/60783263/156945618-b549ccc3-37f6-46fc-ba01-a9b4be47e7e5.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156946222-7e5ffb12-65b0-46fe-980a-d5438052446c.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156946223-0360b1ac-b66b-430f-a8cf-666fd13814d4.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156946224-3fdf6e0f-d5bf-49d2-9034-5aa5fef1f83e.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156946225-ebbceb0c-4689-484a-b8e1-ab35d67607b5.png" width="80" height="80">
+
 - ⬜️ **[AZ-305](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)** - Azure Solutions Architect Expert
 - ⬜️ **[AZ-400](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)** - DevOps Engineer Expert
 - ⬜️ **[AZ-104](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/)** - Azure Administrator Associate
@@ -19,10 +21,14 @@
 
 ### **Data management**
 
+<img src="https://user-images.githubusercontent.com/60783263/156945873-6993fa5f-27cd-47bb-be07-6f2390032930.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156945874-f4041771-e55f-4e17-9e34-dd4a78ec3d8b.png" width="80" height="80">
+
 - ⬜️ **[DP-300](https://docs.microsoft.com/en-us/learn/certifications/azure-database-administrator-associate/)** - Azure DBA Associate
 - ⚡ **[DP-900](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)** - Azure Data Fundamentals _(download is in progress...)_
 
 ### **Security & Compliance**
+
+<img src="https://user-images.githubusercontent.com/60783263/156946016-b177a833-ab90-4f5f-9dab-3c4c92f8a3f8.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156946015-ec505512-077b-4470-a8d2-adabb4e82fe1.png" width="80" height="80">
 
 - ⬜️ **[AZ-500](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer/)** - Azure Security Engineer Associate
 - ⚡ **[SC-900](https://docs.microsoft.com/en-us/learn/certifications/security-compliance-and-identity-fundamentals/)** - Microsoft Security, Compliance, and Identity Fundamentals _(download is in progress...)_
