@@ -16,7 +16,7 @@
 - ⬜️ **AZ-400** - DevOps Engineer Expert
 - ⬜️ **AZ-104** - Azure Administrator Associate
 - ⬜️ **AZ-700** - Azure Network Engineer Associate
-- ✅ **AZ-900** - Microsoft Certified: Azure Fundamentals
+- ✅ **[AZ-900](https://docs.microsoft.com/fr-fr/learn/certifications/azure-fundamentals/)** - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/a5f5d416-cdcc-4e81-834b-f1a8555f1a31)
 
 #### **Data management**
 
@@ -31,7 +31,7 @@
 #### **Artificial Intelligence**
 
 - ⬜️ **AI-102** - Azure AI Engineer Associate
-- ✅ **AI-900** - Microsoft Certified: Azure AI Fundamentals
+- ✅ **[AI-900](https://docs.microsoft.com/fr-fr/learn/certifications/azure-ai-fundamentals/)** - [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/earner/earned/badge/74371a5f-67be-4443-b6a0-223f5849f8d0)
 
 ![6405318ac146473a95bfbdcec2b32943](https://user-images.githubusercontent.com/11095731/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif)
 <sub>Art by [waneella_](https://twitter.com/waneella_) with ❤️</sup>
