@@ -28,10 +28,10 @@
 
 ### **Security & Compliance**
 
-<img src="https://user-images.githubusercontent.com/60783263/156946016-b177a833-ab90-4f5f-9dab-3c4c92f8a3f8.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156946015-ec505512-077b-4470-a8d2-adabb4e82fe1.png" width="80" height="80">
+<img src="https://user-images.githubusercontent.com/60783263/157124139-38ecb020-fee3-4f5b-80b7-fe7380255ebd.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156946015-ec505512-077b-4470-a8d2-adabb4e82fe1.png" width="80" height="80">
 
 - ⬜️ **[AZ-500](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer/)** - Azure Security Engineer Associate
-- ⚡ **[SC-900](https://docs.microsoft.com/en-us/learn/certifications/security-compliance-and-identity-fundamentals/)** - Microsoft Security, Compliance, and Identity Fundamentals _(download is in progress...)_
+- ✅ **[SC-900](https://docs.microsoft.com/en-us/learn/certifications/security-compliance-and-identity-fundamentals/)** - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/earner/earned/badge/d9ac62f0-6f68-4f7d-80cf-73321e5ccff7)
 
 ### **Artificial Intelligence**
 
