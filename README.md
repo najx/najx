@@ -16,7 +16,7 @@
 - ⬜️ **[AZ-305](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)** - Azure Solutions Architect Expert
 - ⬜️ **[AZ-400](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)** - DevOps Engineer Expert
 - ⬜️ **[AZ-104](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/)** - Azure Administrator Associate
-- ⬜️ **[AZ-700](https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/)** - Azure Network Engineer Associate
+- ⚡ **[AZ-700](https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/)** - Azure Network Engineer Associate
 - ✅ **[AZ-900](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)** - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/a5f5d416-cdcc-4e81-834b-f1a8555f1a31)
 
 ### **Data management**
