@@ -21,10 +21,10 @@
 
 ### **Data management**
 
-<img src="https://user-images.githubusercontent.com/60783263/156945873-6993fa5f-27cd-47bb-be07-6f2390032930.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156945874-f4041771-e55f-4e17-9e34-dd4a78ec3d8b.png" width="80" height="80">
+<img src="https://user-images.githubusercontent.com/60783263/166072330-a2fc130d-eb6b-4ae2-bcf7-45c83b841233.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156945874-f4041771-e55f-4e17-9e34-dd4a78ec3d8b.png" width="80" height="80">
 
 - ⬜️ **[DP-300](https://docs.microsoft.com/en-us/learn/certifications/azure-database-administrator-associate/)** - Azure DBA Associate
-- ⚡ **[DP-900](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)** - Azure Data Fundamentals _(download is in progress...)_
+- ✅ **[DP-900](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)** - Azure Data Fundamentals
 
 ### **Security & Compliance**
 
