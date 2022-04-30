@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/60783263/166072330-a2fc130d-eb6b-4ae2-bcf7-45c83b841233.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156945874-f4041771-e55f-4e17-9e34-dd4a78ec3d8b.png" width="80" height="80">
 
 - ⬜️ **[DP-300](https://docs.microsoft.com/en-us/learn/certifications/azure-database-administrator-associate/)** - Azure DBA Associate
-- ✅ **[DP-900](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)** - Microsoft Certified: Azure Data Fundamentals
+- ✅ **[DP-900](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)** - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/bd088b40-ad7c-4571-bfc0-932db57e2517?source=linked_in_profile)
 
 ### **Security & Compliance**
 
