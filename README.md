@@ -8,7 +8,7 @@
 ## **📚 Certification Goals for 2022 (4/11):**
 
 ### **Azure Cloud Computing**
-<sub>(Defining architecture pattern, Designing/Implementing DevOps strategy & Administration)</sup>
+<sub>(Define architecture pattern, Designing/Implementing DevOps strategy & Administration)</sup>
 
 <img src="https://user-images.githubusercontent.com/60783263/156945618-b549ccc3-37f6-46fc-ba01-a9b4be47e7e5.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156946222-7e5ffb12-65b0-46fe-980a-d5438052446c.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156946223-0360b1ac-b66b-430f-a8cf-666fd13814d4.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156946224-3fdf6e0f-d5bf-49d2-9034-5aa5fef1f83e.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156946225-ebbceb0c-4689-484a-b8e1-ab35d67607b5.png" width="80" height="80">
 
