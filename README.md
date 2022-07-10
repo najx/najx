@@ -18,7 +18,7 @@
 - ⚡ **[AZ-700](https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/)** - Azure Network Engineer Associate _(download is in progress...)_
 - ✅ **[AZ-900](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)** - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/a5f5d416-cdcc-4e81-834b-f1a8555f1a31)
 
-### **Data management**
+### **Data**
 
 <img src="https://user-images.githubusercontent.com/60783263/166072330-a2fc130d-eb6b-4ae2-bcf7-45c83b841233.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156945874-f4041771-e55f-4e17-9e34-dd4a78ec3d8b.png" width="80" height="80">
 
@@ -36,7 +36,7 @@
 
 <img src="https://user-images.githubusercontent.com/60783263/156945247-962f1e1d-c5c5-4703-a012-87dd3f87ef25.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156945458-e9336db0-a6a9-4ea9-b1f1-53bc8723d347.png" width="80" height="80">
 
-- ⬜️ **[AI-102](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer/)** - Azure AI Engineer Associate
+- ⚡ **[AI-102](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer/)** - Azure AI Engineer Associate _(download is in progress...)_
 - ✅ **[AI-900](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/)** - [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/earner/earned/badge/74371a5f-67be-4443-b6a0-223f5849f8d0)
 
 ---
