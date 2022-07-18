@@ -37,7 +37,7 @@
 <img src="https://user-images.githubusercontent.com/60783263/156945247-962f1e1d-c5c5-4703-a012-87dd3f87ef25.png" width="80" height="80"> <img src="https://user-images.githubusercontent.com/60783263/156945458-e9336db0-a6a9-4ea9-b1f1-53bc8723d347.png" width="80" height="80">
 
 - ⚡ **[AI-102](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer/)** - Azure AI Engineer Associate _(download is in progress...)_
-- ✅ **[AI-900](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/)** - [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/earner/earned/badge/74371a5f-67be-4443-b6a0-223f5849f8d0)
+- ✅ **[AI-900](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/)** - [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/74371a5f-67be-4443-b6a0-223f5849f8d0/public_url)
 
 ---
 
