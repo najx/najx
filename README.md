@@ -2,8 +2,9 @@
 [![](https://visitor-badge.glitch.me/badge?page_id=najx.visitor-badge")]()
 
 ## 📫 Find me on:
-<a href="https://twitter.com/bdelmwla"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@bdelmwla"></a>
+<a href="https://twitter.com/bdelmoula_n"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@bdelmoula_n"></a>
 <a href="https://www.linkedin.com/in/abdx"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@bdx"></a>
+<a href="https://stackoverflow.com/users/19588110/najim-abdelmoula"><img src="https://img.shields.io/badge/stackoverflow--_.svg?style=social&logo=stackoverflow" alt="najim-abdelmoula"></a>
 
 ## **📚 Certification Goals for 2022 (4/11):**
 
