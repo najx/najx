@@ -9,7 +9,7 @@
 
 -----
 
-📊 **Weekly development breakdown**
+📊 **Development breakdown**
 <!--START_SECTION:waka-->
 
 ```text
