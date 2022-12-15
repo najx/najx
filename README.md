@@ -11,6 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 13 December 2022 - To: 14 December 2022
+
+Total Time: 6 mins
+
 SQL          5 mins          █████████████████████▓░░░   87.14 %
 Bash         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
 YAML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
