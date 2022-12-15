@@ -1,4 +1,4 @@
-name: Update of my Readme.md
+name: Update README.md
 
 on:
   workflow_dispatch:
@@ -7,9 +7,13 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update dev stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
