@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=najx&label=GitHub%20Views&color=yellow&style=flat" alt="najx" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=najx&label=GitHub%20Profile%20Views&color=yellow&style=flat" alt="najx" />
 <a href="https://www.linkedin.com/in/abdx"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@bdx"></a> </p align="center">
 
 -----
