@@ -7,16 +7,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 24 December 2022
+From: 13 December 2022 - To: 25 December 2022
 
-Total Time: 4 hrs
+Total Time: 4 hrs 19 mins
 
-YAML         1 hr 32 mins    █████████▓░░░░░░░░░░░░░░░   38.23 %
-SQL          57 mins         ██████░░░░░░░░░░░░░░░░░░░   23.72 %
-Bash         36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
-TOML         24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-PowerShell   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Go           9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+YAML         1 hr 32 mins    █████████░░░░░░░░░░░░░░░░   35.52 %
+SQL          57 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+Bash         54 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
+TOML         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+PowerShell   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Go           9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
