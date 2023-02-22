@@ -2,16 +2,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 19 February 2023
+From: 13 December 2022 - To: 20 February 2023
 
-Total Time: 42 hrs 27 mins
+Total Time: 42 hrs 40 mins
 
-YAML         23 hrs 44 mins  ██████████████░░░░░░░░░░░   55.93 %
-PowerShell   4 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Bash         2 hrs 51 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-SQL          2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Python       2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Markdown     1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+YAML         23 hrs 47 mins  ██████████████░░░░░░░░░░░   55.76 %
+PowerShell   5 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Bash         2 hrs 51 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+SQL          2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Python       2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Markdown     1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
