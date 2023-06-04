@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2022 - To: 01 June 2023
+From: 13 December 2022 - To: 02 June 2023
 
-Total Time: 159 hrs 23 mins
+Total Time: 161 hrs 53 mins
 
-YAML         109 hrs 28 mins █████████████████▒░░░░░░░   68.69 %
-PowerShell   20 hrs 18 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Bash         8 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-Other        3 hrs 40 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Markdown     3 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+YAML         111 hrs 54 mins █████████████████▒░░░░░░░   69.12 %
+PowerShell   20 hrs 22 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Bash         8 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Other        3 hrs 40 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Markdown     3 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
