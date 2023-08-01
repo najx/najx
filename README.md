@@ -27,5 +27,4 @@ Other             4 hrs 5 mins    ▓░░░░░░░░░░░░░░�
 📕 **Latest Blog Posts on https://najx.dev**
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
