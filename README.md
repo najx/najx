@@ -15,7 +15,7 @@ Other             4 hrs 5 mins    ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-📕 Latest Blog Posts on https://najx.dev
+📕 Latest Blog posts on https://najx.dev
 
 <!-- BLOG-POST-LIST:START -->
 - [Implementing Eco-Responsible Architecture in Azure](https://najx.dev/implementing-eco-responsible-architecture-in-azure/)
