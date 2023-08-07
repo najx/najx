@@ -1,12 +1,3 @@
-📕 Latest Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Implementing Eco-Responsible Architecture in Azure](https://najx.dev/implementing-eco-responsible-architecture-in-azure/)
-- [Azure DevOps and GitHub, The Two Faces of DevOps at Microsoft](https://najx.dev/azure-devops-and-github-the-two-faces-of-devops-at-ms/)
-- [Comparison between AWS, Azure and Google Cloud services](https://najx.dev/cloud-comparer-chart/)
-- [Embracing the 12-Factor App Methodology for Modern Application Development](https://najx.dev/embracing-the-12-factor-app-methodology-for-modern-application-development/)
-<!-- BLOG-POST-LIST:END -->
-
 📊 Development breakdown
 <!--START_SECTION:waka-->
 
@@ -23,6 +14,15 @@ Other             4 hrs 5 mins    ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+📕 Latest Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Implementing Eco-Responsible Architecture in Azure](https://najx.dev/implementing-eco-responsible-architecture-in-azure/)
+- [Azure DevOps and GitHub, The Two Faces of DevOps at Microsoft](https://najx.dev/azure-devops-and-github-the-two-faces-of-devops-at-ms/)
+- [Comparison between AWS, Azure and Google Cloud services](https://najx.dev/cloud-comparer-chart/)
+- [Embracing the 12-Factor App Methodology for Modern Application Development](https://najx.dev/embracing-the-12-factor-app-methodology-for-modern-application-development/)
+<!-- BLOG-POST-LIST:END -->
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=najx&label=GitHub%20Profile%20Views&color=yellow&style=flat" alt="najx" />
