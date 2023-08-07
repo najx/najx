@@ -22,6 +22,7 @@ Other             4 hrs 5 mins    ▒░░░░░░░░░░░░░░�
 - [Azure DevOps and GitHub, The Two Faces of DevOps at Microsoft](https://najx.dev/azure-devops-and-github-the-two-faces-of-devops-at-ms/)
 - [Comparison between AWS, Azure and Google Cloud services](https://najx.dev/cloud-comparer-chart/)
 - [Embracing the 12-Factor App Methodology for Modern Application Development](https://najx.dev/embracing-the-12-factor-app-methodology-for-modern-application-development/)
+- [A study reveals the most energy-hungry languages](https://najx.dev/a-study-reveals-the-most-energy-hungry-languages/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
