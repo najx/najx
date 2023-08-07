@@ -18,11 +18,11 @@ Other             4 hrs 5 mins    ▒░░░░░░░░░░░░░░�
 📕 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Eco-Responsible Architecture in Azure](https://najx.dev/implementing-eco-responsible-architecture-in-azure/)
-- [Azure DevOps and GitHub, The Two Faces of DevOps at Microsoft](https://najx.dev/azure-devops-and-github-the-two-faces-of-devops-at-ms/)
+- [Implementing eco-responsible architecture in Azure](https://najx.dev/implementing-eco-responsible-architecture-in-azure/)
+- [Azure DevOps and GitHub, the two Faces of DevOps at Microsoft](https://najx.dev/azure-devops-and-github-the-two-faces-of-devops-at-ms/)
 - [Comparison between AWS, Azure and Google Cloud services](https://najx.dev/cloud-comparer-chart/)
-- [Embracing the 12-Factor App Methodology for Modern Application Development](https://najx.dev/embracing-the-12-factor-app-methodology-for-modern-application-development/)
-- [A study reveals the most energy-hungry languages](https://najx.dev/a-study-reveals-the-most-energy-hungry-languages/)
+- [Kubernetes anti-patterns and solutions](https://najx.dev/kubernetes-anti-patterns/)
+- [Embracing the 12-Factor app methodology for modern application development](https://najx.dev/embracing-the-12-factor-app-methodology-for-modern-application-development/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
