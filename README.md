@@ -18,11 +18,11 @@ Other             4 hrs 13 mins   ▓░░░░░░░░░░░░░░�
 📕 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IPv6: The Evolutionary Step in Modern Networking](https://najx.dev/why-ipv6-is-the-future/)
 - [DevOps, SRE, and Platform Engineering: Understanding the Differences](https://najx.dev/devops-vs-sre-vs-platform-engineering/)
 - [HTTP/2 and gRPC: A Deep Dive into Modern Web Communication](https://najx.dev/http2-vs-grpc/)
 - [Implementing Eco-responsible Architecture in Azure](https://najx.dev/implementing-eco-responsible-architecture-in-azure/)
 - [Azure DevOps and GitHub, the two Faces of DevOps at Microsoft](https://najx.dev/azure-devops-and-github-the-two-faces-of-devops-at-ms/)
-- [Embracing the 12-Factor App methodology for Modern Application Development](https://najx.dev/embracing-the-12-factor-app-methodology-for-modern-application-development/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
