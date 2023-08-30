@@ -18,11 +18,11 @@ Other             4 hrs 13 mins   ▓░░░░░░░░░░░░░░�
 📕 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Anti-Patterns: Causes, Consequences, and Solutions](https://najx.dev/cicd-anti-patterns/)
 - [IPv6: The Evolutionary Step in Modern Networking](https://najx.dev/why-ipv6-is-the-future/)
 - [Exploring Differences: DevOps, SRE, and Platform Engineering](https://najx.dev/devops-vs-sre-vs-platform-engineering/)
 - [HTTP/2 and gRPC: A Deep Dive into Modern Web Communication](https://najx.dev/http2-vs-grpc/)
 - [Implementing Eco-responsible Architecture in Azure](https://najx.dev/implementing-eco-responsible-architecture-in-azure/)
-- [Azure DevOps and GitHub, the two Faces of DevOps at Microsoft](https://najx.dev/azure-devops-and-github-the-two-faces-of-devops-at-ms/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
