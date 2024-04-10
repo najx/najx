@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2022 - To: 07 April 2024
+From: 13 December 2022 - To: 08 April 2024
 
-Total Time: 331 hrs 53 mins
+Total Time: 333 hrs 11 mins
 
-YAML              223 hrs 34 mins █████████████████░░░░░░░░   67.36 %
-PowerShell        26 hrs 7 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-Python            23 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-Bash              14 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Go                7 hrs 37 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+YAML              223 hrs 41 mins ████████████████▓░░░░░░░░   67.14 %
+PowerShell        26 hrs 7 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Python            23 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Bash              14 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Other             8 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
