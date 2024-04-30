@@ -1,4 +1,4 @@
-📊 Development breakdown
+📊 Tracked development breakdown
 <!--START_SECTION:waka-->
 
 ```txt
