@@ -26,5 +26,5 @@ Other             8 hrs 5 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=najx&label=GitHub%20Profile%20Views&color=yellow&style=flat" alt="najx" />
+  <img src="https://komarev.com/ghpvc/?username=najx&label=GitHub%20Profile%20Views&color=yellowgreen&style=flat" alt="najx" />
 </p align="center">
