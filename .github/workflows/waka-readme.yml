@@ -12,7 +12,8 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          #BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          BLOCKS: =>
           TIME_RANGE: all_time
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
