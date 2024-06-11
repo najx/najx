@@ -18,11 +18,11 @@ Other             8 hrs 51 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 📕 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI’s Comprehensive Guide: 5 Strategies for Powerful Results](https://najx.dev/openai's-comprehensive-guide-to-prompt-writing-five-new-strategies-for-powerful-results/)
 - [The Future of Cloud: Emerging Trends and Innovations](https://najx.dev/the-future-of-cloud-emerging-trends-and-innovations/)
-- [Tailoring Azure Landing Zone for Your Cloud Infrastructure](https://najx.dev/tailoring-your-azure-landing-zone-for-cloud-infrastructure/)
-- [Harnessing AI to Supercharge Kubernetes Operations](https://najx.dev/harnessing-ai-to-supercharge-kubernetes-operations/)
 - [CI/CD Anti-Patterns: Causes, Consequences, and Solutions](https://najx.dev/cicd-anti-patterns/)
+- [IPv6: The Evolutionary Step in Modern Networking](https://najx.dev/why-ipv6-is-the-future/)
+- [Exploring Differences: DevOps, SRE, and Platform Engineering](https://najx.dev/devops-vs-sre-vs-platform-engineering/)
+- [HTTP/2 and gRPC: A Deep Dive into Modern Web Communication](https://najx.dev/http2-vs-grpc/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
