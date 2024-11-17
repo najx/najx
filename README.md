@@ -18,7 +18,7 @@ Other                      13 hrs 20 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 📕 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Computing: The End of RSA and AES as We Know It](https://najx.dev/quantum/)
+- [Quantum Computing: Future cryptographic risks](https://najx.dev/quantum/)
 - [Understand the great CrowdStrike-Windows meltdown](https://najx.dev/crowdstrike-issue/)
 - [The Future of Cloud: Emerging Trends and Innovations](https://najx.dev/the-future-of-cloud-emerging-trends-and-innovations/)
 - [CI/CD Anti-Patterns: Causes, Consequences, and Solutions](https://najx.dev/cicd-anti-patterns/)
