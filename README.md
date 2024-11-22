@@ -18,11 +18,11 @@ Other                      13 hrs 28 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 📕 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The existential horror of the paperclip factory](https://najx.dev/paperclips/)
 - [Quantum Computing: Future cryptographic risks](https://najx.dev/quantum/)
 - [Understand the great CrowdStrike-Windows meltdown](https://najx.dev/crowdstrike-issue/)
 - [The Future of Cloud: Emerging Trends and Innovations](https://najx.dev/the-future-of-cloud-emerging-trends-and-innovations/)
 - [CI/CD Anti-Patterns: Causes, Consequences, and Solutions](https://najx.dev/cicd-anti-patterns/)
-- [IPv6: The Evolutionary Step in Modern Networking](https://najx.dev/why-ipv6-is-the-future/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
