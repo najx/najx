@@ -18,11 +18,11 @@ Python                     25 hrs 32 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 📕 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek AI: Open Models vs. Proprietary Control](https://najx.dev/open-models-vs-proprietary-control/)
 - [The existential horror of the paperclip factory](https://najx.dev/paperclips/)
 - [Quantum Computing: Future cryptographic risks](https://najx.dev/quantum/)
 - [Understand the great CrowdStrike-Windows meltdown](https://najx.dev/crowdstrike-issue/)
 - [The Future of Cloud: Emerging Trends and Innovations](https://najx.dev/the-future-of-cloud-emerging-trends-and-innovations/)
-- [CI/CD Anti-Patterns: Causes, Consequences, and Solutions](https://najx.dev/cicd-anti-patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
