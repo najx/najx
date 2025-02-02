@@ -15,7 +15,7 @@ Python                     25 hrs 32 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-📕 Latest Blog posts
+📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [DeepSeek AI: Open Models vs. Proprietary Control](https://najx.dev/open-models-vs-proprietary-control/)
