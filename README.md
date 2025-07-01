@@ -18,11 +18,11 @@ PowerShell                 26 hrs 41 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Multi-Agent Architectures in AI](https://najx.dev/intro-multi-agent/)
 - [DeepSeek AI: Open Models vs. Proprietary Control](https://najx.dev/open-models-vs-proprietary-control/)
 - [The existential horror of the paperclip factory](https://najx.dev/paperclips/)
 - [Quantum Computing: Future cryptographic risks](https://najx.dev/quantum/)
 - [Understand the great CrowdStrike-Windows meltdown](https://najx.dev/crowdstrike-issue/)
-- [The Future of Cloud: Emerging Trends and Innovations](https://najx.dev/the-future-of-cloud-emerging-trends-and-innovations/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
