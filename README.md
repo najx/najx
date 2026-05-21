@@ -18,11 +18,11 @@ Python                             28 hrs 10 mins        ⣦⣀⣀⣀⣀⣀⣀�
 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Your Internet Box, Router, and ISP Really Know About You](https://najx.dev/isp-router-privacy-myth-vs-reality/)
 - [Claude Mythos: Too Powerful or Just Hype?](https://najx.dev/claude-mythos-too-powerfull-or-hype/)
 - [Multi-Agent Architectures in AI](https://najx.dev/multi-ai-archi/)
 - [Introduction to Multi-Agent Architectures in AI](https://najx.dev/intro-multi-agent/)
 - [DeepSeek AI: Open Models vs. Proprietary Control](https://najx.dev/open-models-vs-proprietary-control/)
-- [The existential horror of the paperclip factory](https://najx.dev/paperclips/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
