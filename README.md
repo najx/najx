@@ -18,11 +18,11 @@ Markdown                           30 hrs 41 mins        ⣦⣀⣀⣀⣀⣀⣀�
 📕 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When “The Model Stopped” Becomes a Safety Control](https://najx.dev/when-the-model-stopped-becomes-a-safety-control/)
 - [L’odyssée d’une requête : Lorsque vous tapez une URL](https://najx.dev/odyssee-d-une-requete/)
 - [What Your Internet Box, Router, and ISP Really Know About You](https://najx.dev/isp-router-privacy-myth-vs-reality/)
 - [Claude Mythos: Too Powerful or Just Hype?](https://najx.dev/claude-mythos-too-powerfull-or-hype/)
 - [Multi-Agent Architectures in AI](https://najx.dev/multi-ai-archi/)
-- [Introduction to Multi-Agent Architectures in AI](https://najx.dev/intro-multi-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
